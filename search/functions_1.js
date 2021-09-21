@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['flasaspersistant_38',['FlasAsPersistant',['../de/d64/class_null_framework_exception_1_1_mono_singleton.html#a3a45c15e908762faa332890a69a3ec60',1,'NullFrameworkException::MonoSingleton']]]
+  ['oninspectorgui_0',['OnInspectorGUI',['../class_gamework_framework_1_1_editor_1_1_custom_inspector.html#ab09525bb5d6bb0f0e02ad250e95b273c',1,'GameworkFramework::Editor::CustomInspector']]]
 ];

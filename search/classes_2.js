@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['joystickinputhandler_26',['JoystickInputHandler',['../d6/de6/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_joystick_input_handler.html',1,'NullFrameworkException::Mobile::InputHandling']]]
+  ['objectdimensions_0',['ObjectDimensions',['../class_gamework_framework_1_1_core_1_1_object_dimensions.html',1,'GameworkFramework::Core']]]
 ];

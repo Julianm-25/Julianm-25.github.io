@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['baseinputhandler_24',['BaseInputHandler',['../dd/de0/class_null_framework_exception_1_1_mobile_1_1_input_handling_1_1_base_input_handler.html',1,'NullFrameworkException::Mobile::InputHandling']]]
+  ['comparator_0',['Comparator',['../class_gamework_framework_1_1_sorting_1_1_comparator.html',1,'GameworkFramework::Sorting']]],
+  ['custominspector_1',['CustomInspector',['../class_gamework_framework_1_1_editor_1_1_custom_inspector.html',1,'GameworkFramework::Editor']]]
 ];
